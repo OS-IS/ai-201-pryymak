@@ -1,0 +1,13 @@
+@startuml
+node "Комп'ютер користувача" {
+    artifact "Клієнтський додаток" as clientApp
+}
+
+node "Сервер" {
+    artifact "Серверний процес" as serverProcess
+    database "База даних" as database
+}
+
+clientApp <--> serverProcess : HTTP
+serverProcess <--> database : SQL
+@enduml
