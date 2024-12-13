@@ -2,15 +2,14 @@
 
 Створення таблиці
 
-<img width="559" alt="image" src="https://github.com/user-attachments/assets/42842d13-d155-4d68-a5d4-71ab090ce4bd" />
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/22d0c213-ebed-4cf3-8d32-770985c84d63" />
+
 
 команди перевірки роботи правил
 
 
-<img width="590" alt="image" src="https://github.com/user-attachments/assets/40c49b0f-0c61-44ad-ab4b-1df54d3501a9" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/f2c87d16-838f-42d4-8093-db18d543b42e" />
 
-
-<img width="578" alt="image" src="https://github.com/user-attachments/assets/1bf9cdd7-ef90-41d4-9497-2fd35ba212da" />
 
 
 
