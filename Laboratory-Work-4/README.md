@@ -1,3 +1,3 @@
 # ai-201-pryymak
-### Огляд та локалізація рекомендацій OWASP Web Security Testing Guide
+### Оцінка гарантованої зрілості безпечного програмного забезпечення за моделлю OWASP SAMM - Software Assurance Maturity Model
 
