@@ -64,6 +64,17 @@
 
 13. Проаналізувати вміст перехоплених пакетів, які було збережено у файлі, наприклад, res.dump. Підтвердити передачу деяких даних у відкритому вигляді.
 
+<img width="1037" alt="image" src="https://github.com/user-attachments/assets/74ed05c6-d381-4100-992a-75ae805b008b" />
+
+<img width="1034" alt="image" src="https://github.com/user-attachments/assets/af92e64a-8585-428a-882e-ada44224e053" />
+
+14. Повторити пункт 11, встановивши зв’язок із СКБД, але вже через TLS/SSL- з’єднання.
+
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/10003800-63d9-4b21-967f-82a93c8752ca" />
+
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/5b4e75dd-79e9-4226-9d99-2da17123b2b3" />
+
+<img width="1033" alt="image" src="https://github.com/user-attachments/assets/3f1bf4b7-8c8e-40d5-bf00-fdaee5263754" />
 
 
 
