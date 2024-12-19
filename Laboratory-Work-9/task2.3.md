@@ -1,4 +1,3 @@
-``` plpgsql
 CREATE OR REPLACE FUNCTION user_register_secure(input_password TEXT)
 RETURNS BOOLEAN AS $$
 BEGIN
@@ -31,4 +30,3 @@ BEGIN
     RETURN TRUE;
 END;
 $$ LANGUAGE plpgsql;
-```
